@@ -1,14 +1,14 @@
 <h1 align="center">🎵 Aviax Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
+  <img src="Uploaded to https://graph.org/file/e18521fa659372e8810b2.jpg)" alt="Sohini Music Logo" width="600" height="150">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/TeamAviax/AviaxMusic?style=for-the-badge&color=red" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/TeamAviax/AviaxMusic?style=for-the-badge&color=green" alt="GitHub license">
+  <img src="https://img.shields.io/github/stars/ImperfectXD/Sohini_Music?style=for-the-badge&color=blue" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/ImperfectXD/Sohini_Music?style=for-the-badge&color=blue" alt="GitHub forks">
+  <img src="https://img.shields.io/github/issues/ImperfectXD/Sohini_Music?style=for-the-badge&color=red" alt="GitHub issues">
+  <img src="https://img.shields.io/GitHub /ImperfectXD/Sohini_Music?style=for-the-badge&color=green" alt="GitHub license">
 </p>
 
 <h2 align="center">Delivering Superior Music Experience to Telegram</h2>
@@ -47,7 +47,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/Imperfect XD/SohiniMusic && cd SohiniMusic
+   git clone https://github.com/ImperfectXD/Sohini_Music && cd SohiniMusic
    ```
 6. **Install Requirements**
    ```bash
@@ -131,5 +131,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ### 🙏 Acknowledgements
 
 Special thanks to all the contributors, supporters, and users of the Aviax Music Bot. Your feedback and support keep us going!
-- [Sohini Music](https://github.com/Imperfect XD/SohiniMusic) and [SohiniMusic](https://github.com/Imperfect XD/SohiniMusic) For their Source Codes.
+- [Sohini Music](https://github.com/ImperfectXD/Sohini_Music) and [SohiniMusic](https://github.com/ImperfectXD/Sohini_Music) For their Source Codes.
 

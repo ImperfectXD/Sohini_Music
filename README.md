@@ -1,19 +1,22 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
 
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+ <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🦑+🄼🄰🄽🄰🄶🄼🄴🄽🅃+🄱🄾🅃+🅁🄴🄿🄾+🦑">
+
+
+
+</h2>
 <p align="center">
-  <img src="Uploaded to https://graph.org/file/e18521fa659372e8810b2.jpg)" alt="Sohini Music Logo" width="600" height="150">
+  <img src="Uploaded to https://graph.org/file/e18521fa659372e8810b2.jpg)">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ImperfectXD/Sohini_Music?style=for-the-badge&color=blue" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/ImperfectXD/Sohini_Music?style=for-the-badge&color=blue" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/ImperfectXD/Sohini_Music?style=for-the-badge&color=red" alt="GitHub issues">
-  <img src="https://img.shields.io/GitHub /ImperfectXD/Sohini_Music?style=for-the-badge&color=green" alt="GitHub license">
-</p>
+ <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&width=420&lines=🐙+𝐃𝙴𝙿𝙻𝙾𝚈+𝐎𝙽+𝐇𝙴𝚁𝙾𝙺𝚄+𝐍𝙾𝚆+🐙">
 
-<h2 align="center">Delivering Superior Music Experience to Telegram</h2>
 
----
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/LOCO-PILOT/AvishaRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-008000?style=for-the-badge&logo=heroku" width="180" height="40"/></a></p>
 
 ### 🌟 Features
 
@@ -93,9 +96,11 @@ For a full list of commands, use `/help` in [telegram](https://t.me/SohiniMusicB
 
 ---
 
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFF00&width=420&lines=🐉+ 𝐉𝚉𝙸𝙽+𝐎𝚄𝚁+𝐒𝚄𝙿𝙿𝙾𝚁𝚃+𝐆𝚁𝙾𝚄𝙿+&+𝐔𝙿𝙳𝙰𝚃𝙴𝚂+𝐂𝙷𝙰𝙽𝙽𝙴𝙻🐉">
+
 ### 🔄 Updates & Support
 
-Stay updated with the latest features and improvements to Aviax Music Bot:
+Stay updated with the latest features and improvements to Sohini Music Bot:
 
 <p align="center">
   <a href="https://t.me/bloossoms_chat">
@@ -105,20 +110,6 @@ Stay updated with the latest features and improvements to Aviax Music Bot:
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
-
----
-
-### 🤝 Contributing
-
-We welcome contributions to the Aviax Music Bot project. If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch with a meaningful name.
-3. Make your changes and commit them with a descriptive commit message.
-4. Open a pull request against our `main` branch.
-5. Our team will review your changes and provide feedback.
-
-For more details, reach out us on telegram.
 
 ---
 
